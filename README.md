@@ -1,6 +1,6 @@
 # 📝 Notes App
 
-A clean and intuitive note-taking application built with React that allows users to create, edit, delete, and organize notes. Notes are automatically saved using local storage, ensuring they persist between sessions.
+A clean and user friendly note-taking application built with React that allows users to create, edit, delete, and organize notes. Notes are automatically saved using local storage, ensuring they persist between sessions.
 
 ## Live Demo
 
