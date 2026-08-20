@@ -18,7 +18,7 @@ A clean and user friendly note-taking application built with React that allows u
 
 -  Create new notes
 -  Edit existing notes
--  Delete notes
+-  Delete saved notes
 -  Automatic local storage persistence
 -  Fast and responsive interface
 -  Fully responsive design
